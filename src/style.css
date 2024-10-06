@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#get button{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+#get,#get1,#get2{
+    background: linear-gradient(45deg,#b517c4,#30197d);
+}
